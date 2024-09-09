@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: page
+name: Page
+propagationMethod: all
+siteSettings:
+  143ee5c1-3d0b-479a-9ff9-bc8a8edebecd: # Neo bug
+    enabledByDefault: true
+    hasUrls: true
+    template: page/_entry.twig
+    uriFormat: 'page/{slug}'
+type: channel

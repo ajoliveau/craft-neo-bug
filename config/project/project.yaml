@@ -1,0 +1,33 @@
+dateModified: 1725894319
+email:
+  fromEmail: ashenke@gmail.com
+  fromName: 'Neo bug'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    2a370f08-7ebd-4eeb-a58c-f470135f1ae2: 'A subfield' # A subfield
+    6d06c323-6db8-4c4b-9b07-8041f4434d27: Page # Page
+    143ee5c1-3d0b-479a-9ff9-bc8a8edebecd: 'Neo bug' # Neo bug
+    95196907-01af-461a-8bfe-5ff481befb9b: Default # Default
+    bc07ad34-dedb-4130-9d3d-80fa10e906a2: 'Flexible Field' # Flexible Field
+    d776a904-530b-4334-831a-f651f684801b: 'A field' # A field
+    dd319c01-232d-4f7b-b5b3-9902b552e7e7: 'Neo bug' # Neo bug
+    f4d80fe1-e5ac-46ba-8664-323c3c5627a9: Common # Common
+plugins:
+  neo:
+    edition: standard
+    enabled: true
+    licenseKey: R09612HC9AK1YAWLCIO16ZKD
+    schemaVersion: 4.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Neo bug'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
